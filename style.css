@@ -1,0 +1,43 @@
+body {
+  background-image: url("https://i.imgur.com/DsdzjAa.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+
+.header {
+  text-align: center;
+  color: #ff007f;
+  margin: 0;
+  font-size: 66px;
+  font-family: Shadows Into Light;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.button {
+  padding: auto;
+  margin: auto;
+  border-radius: 10px;
+  border-color: white;
+  background-color: turquoise;
+  color: white;
+  font-family: Shadows Into Light;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.compliment-text {
+  text-align: center;
+  font-family: arial;
+  color: purple;
+  margin: 0;
+  font-size: 50px;
+  font-family: Shadows Into Light;
+}
